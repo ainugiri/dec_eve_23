@@ -5,7 +5,7 @@ function App() {
   const expense = [
     {
       title:'phone',
-      amount:600,
+      amount:6000,
       date:new Date(2023,11,9),
     },
     {
@@ -16,7 +16,6 @@ function App() {
     {
       title:'refri',
       amount:1200,
-      amount:300,
       date:new Date(2023,11,9),
     },
   ]
