@@ -5,17 +5,17 @@ function App() {
   const expense = [
     {
       title:'phone',
-      amount:10000,
+      amount:2000,
       date:new Date(2023,11,9),
     },
     {
       title:'laptop',
-      amount:12000,
+      amount:4000,
       date:new Date(2023,11,9),
     },
     {
       title:'refri',
-      amount:1300,
+      amount:1200,
       date:new Date(2023,11,9),
     },
   ]
