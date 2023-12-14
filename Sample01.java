@@ -17,4 +17,4 @@ public static void main(String giri[]){
 }
 
 
-(SECU_IMPL1)
+(AINUGIRI)
