@@ -15,7 +15,3 @@ public static void main(String giri[]){
 }
 }
 }
-
-
-(AINUGIRI)
-(GIRI PRASAD)
